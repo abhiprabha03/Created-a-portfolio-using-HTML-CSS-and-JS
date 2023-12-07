@@ -16,7 +16,7 @@ body {
 
 }
 
-/*  NAVBAR  */
+
 
 header {
     padding: 1.7rem 0;
@@ -54,7 +54,7 @@ nav a {
     display: none;
 }
 
-/*NAVBAR*/
+
 
 section {
     margin: 2rem 8.5rem;
@@ -111,7 +111,7 @@ section {
 
 }
 
-/* IMAGE*/
+
 
 .images {
     width: 25em;
@@ -147,8 +147,7 @@ section {
 
 .blue-bg img {
     position: relative;
-    /* bottom: 30px;
-    right: 20px; */
+   
     width: 100%;
     border-radius: 50%;
 }
@@ -171,7 +170,7 @@ section {
 }
 
 
-/*ANIMATION*/
+
 
 .animated_text h1 {
     -webkit-text-stroke: 1px #fff;
